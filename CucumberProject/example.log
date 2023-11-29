@@ -1,0 +1,321 @@
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------enter the email --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the email --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the Name--------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------enter the email --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the email --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the Name--------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------enter the email --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the email --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the Name--------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------enter the email --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the email --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------click on search button--------------------
+INFO main CucumberProject - ------------search for the Name--------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------viewing the  dashboard--------------------
+INFO main CucumberProject - ------------clicking menu--------------------
+INFO main CucumberProject - ------------clicking menu item --------------------
+INFO main CucumberProject - ------------clicking new customer button--------------------
+INFO main CucumberProject - ------------verifying the title--------------------
+INFO main CucumberProject - ------------entering the customrer info--------------------
+INFO main CucumberProject - ------------clicking on Save button --------------------
+INFO main CucumberProject - ------------verifying the message --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
+INFO main CucumberProject - ------------broweser launched--------------------
+INFO main CucumberProject - ------------opening the URL--------------------
+INFO main CucumberProject - ------------sending User Name and Password--------------------
+INFO main CucumberProject - ------------click on login button--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------performing logout--------------------
+INFO main CucumberProject - ------------verifying title --------------------
+INFO main CucumberProject - ------------closing the  browser--------------------
